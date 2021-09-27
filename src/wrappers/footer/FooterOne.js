@@ -51,7 +51,7 @@ const FooterOne = ({
           >
             {/* footer copyright */}
             <FooterCopyright
-              footerLogo="/assets/img/logo/logo3.png"
+              footerLogo="/assets/img/logo/logo4.png"
               spaceBottomClass="mb-30"
             />
           </div>
